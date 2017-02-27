@@ -25,7 +25,7 @@
                 }).then(function(res){
                     this.dataList=res.body.subjects;
                 }).then(function(res){
-                    console.log(res)
+
                 })
             }
         },
